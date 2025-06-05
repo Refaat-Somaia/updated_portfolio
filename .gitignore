@@ -10,6 +10,11 @@
 
 # production
 /build
+/src/assets/
+/.firebase
+/firebase.json
+/.firebserc
+/.gitignore
 
 # misc
 .DS_Store
